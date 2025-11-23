@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"'this module a square class"'
+"'this module a square class'"
 class Square():
     """asdfghj"""
     def __init__(self,size=0):
