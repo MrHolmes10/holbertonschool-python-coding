@@ -2,7 +2,7 @@
 "'this is a class'"
 
 class Square:
-   ""a class is that""
+   "'aclass is that'"
    
    def __init__(self,size=0):
        if  not isinstance(size,int):
